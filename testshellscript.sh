@@ -7,3 +7,6 @@ echo "PASSED"
 sum=$(($num1 + $num2))
 echo ${sum}
 echo "DONE"
+echo ${sum}
+echo ${sum}
+echo ${sum}
