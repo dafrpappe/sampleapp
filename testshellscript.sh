@@ -4,7 +4,7 @@ echo "From git"
 echo "system change 2022"
 echo "PASSED"
 
-sum=$(($num1 + $num2)))))
+sum=$(($num1 + $num2))))
 echo ${sum}
 echo "DONE"
 echo ${sum}
